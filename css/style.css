@@ -26,6 +26,9 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     
 }
+img{
+    width: 100%;
+}
 
 /*header*/
 header{
@@ -115,8 +118,9 @@ header ul li  a{
     width: 100%;
 }
 
-.console img:hover{
+.console .products:hover{
     opacity: 0.5;
+    cursor: pointer;
     
 }
 
@@ -124,3 +128,38 @@ header ul li  a{
     border-bottom: #4b9cdd;
 }
 
+
+
+.jumbotron-banner{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    
+}
+
+
+.card-2{
+    color: white;
+}
+
+.card-2 h3{
+    padding-top:  20px; 
+}
+
+
+.prodact-2 img{
+    width: 100%;
+}
+.prodact-2 p{
+    color: grey;
+    font-weight: bold;
+}
+
+
+.jumbo-banner-plus{
+    background-color: #bebcbb;
+}
+
+
+
+.jumbo-banner-plus-content img{
+    width: 500px;
+}
