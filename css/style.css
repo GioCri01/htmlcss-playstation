@@ -57,6 +57,9 @@ header ul li  a{
 }
 
 /*jumbotron*/
+.pt100{
+    padding-top: 100px;
+}
 
 .jumbotron{
     
@@ -88,6 +91,7 @@ header ul li  a{
 
 .card img{
     width: 100%;
+    border: 5px solid transparent;
     border-radius: 10px;
     transition: 0.3s ease;
 }
@@ -161,5 +165,12 @@ header ul li  a{
 
 
 .jumbo-banner-plus-content img{
-    width: 500px;
+    width: 60%;
+}
+
+
+
+.jumbo-banner-now{
+    background-color: #161c3b;
+    color: white;
 }
