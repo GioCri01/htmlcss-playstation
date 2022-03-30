@@ -162,10 +162,20 @@ header ul li  a{
     background-color: #bebcbb;
 }
 
+.jumbo-banner-plus p{
+    color: gray;
+}
+
 
 
 .jumbo-banner-plus-content img{
     width: 60%;
+}
+
+
+.discount p{
+    color: grey;
+    font-weight: bold;
 }
 
 
@@ -174,3 +184,6 @@ header ul li  a{
     background-color: #161c3b;
     color: white;
 }
+
+ 
+
